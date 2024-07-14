@@ -4,6 +4,11 @@
 
 The `food-order-next-firebase-ts` project is a web application designed for ordering food online. It consists of two separate Next.js 14 projects: `customer` and `vendor`. The `vendor` project allows vendors to create, edit, and process orders, while the `customer` project allows customers to browse and purchase food items. Firebase is used for storage and real-time database functionalities.
 
+<img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png" alt="Next.js" width="100" />
+<img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" alt="Firebase" width="100" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="100" />
+
+
 ## Dependencies
 
 To get started with this project, you'll need to install the following dependencies:
@@ -50,3 +55,15 @@ npm run dev
 ```
 
 Ensure both projects are running on different ports to avoid conflicts.
+
+# Project Images
+## Customer Side
+<img src="images/customer1.png">
+<img src="images/customer2.png">
+<img src="images/customer3.png">
+<img src="images/customer4.png">
+
+## Vendor Side
+<img src="images/vendor1.png">
+<img src="images/vendor2.png">
+<img src="images/vendor3.png">
