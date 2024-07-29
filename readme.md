@@ -1,5 +1,11 @@
 # Food Order Next Firebase TS Project
 
+
+## Checkout Live at : 
+- [Links](#links)
+    - [Frontend](#frontend)
+    - [Backend](#backend)
+
 ## Project Overview
 
 The `food-order-next-firebase-ts` project is a web application designed for ordering food online. It consists of two separate Next.js 14 projects: `customer` and `vendor`. The `vendor` project allows vendors to create, edit, and process orders, while the `customer` project allows customers to browse and purchase food items. Firebase is used for storage and real-time database functionalities.
@@ -10,7 +16,7 @@ The `food-order-next-firebase-ts` project is a web application designed for orde
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="100" />
 <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="Tailwind CSS" width="100" />
 
-
+    
 
 ## Dependencies
 
