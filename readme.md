@@ -3,8 +3,8 @@
 
 ## Checkout Live at : 
 - [Links](#links)
-    - [Frontend](#frontend)
-    - [Backend](#backend)
+    - [Frontend](#https://customer-live.vercel.app/)
+    - [Backend](#https://vendor-live.vercel.app/)
 
 ## Project Overview
 
